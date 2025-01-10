@@ -1,6 +1,6 @@
 {
   "site": {
-    "url": "https://drowsyindra.github.io",
+    "url": "https://moyunyao.github.io/",
     "title": "博客",
     "description": "这是一个有理想的人走过的漫长道路",
     "keywords": "Kunyi,blog,dream,indra,博客,逐梦",
@@ -9,8 +9,8 @@
     "appleTouchIcon": "/apple-touch-icon.png"
   },
   "author": {
-    "name": "Kunyi",
-    "twitterId": "@lxchapu",
+    "name": "MYY",
+    //"twitterId": "@lxchapu",
     "avatar": "/img/avatar.jpg"
   },
   "hero": {
@@ -21,7 +21,7 @@
       {
         "name": "Github",
         "icon": "icon-github",
-        "url": "https://github.com/drowsyindra",
+        "url": "https://moyunyao.github.io/",
         "color": "rgb(239, 70, 107)"
       },
       {
