@@ -17,7 +17,7 @@ Gyoza 是开源的，如果你对这个项目感兴趣，欢迎前往 Gyoza 的 
 
 ## 关于作者
 
-我是 MYY，是一名前端开发者，喜欢各种有趣的东西。欢迎访问我的个人网站 [https://moyunyao.github.io/](https://moyunyao.github.io/)，了解关于我更多的信息。
+我是 MYY，是一名学生，喜欢各种有趣的东西。欢迎访问我的个人网站 [https://moyunyao.github.io/](https://moyunyao.github.io/)，了解关于我更多的信息。
 
 ## 致谢
 
